@@ -10,7 +10,7 @@ express
 </pre>
 > 作者：TQH
 ## 源代码
-源代码地址：[GitHub]()  
+源代码地址：[GitHub](./static/music.gif)  
 ## 预览图
 ![Vue音乐播放器]()
 ## Build Setup
